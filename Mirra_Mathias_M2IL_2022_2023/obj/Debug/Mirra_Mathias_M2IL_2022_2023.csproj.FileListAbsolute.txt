@@ -1,0 +1,9 @@
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/obj/Debug/Mirra_Mathias_M2IL_2022_2023.csproj.AssemblyReference.cache
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/obj/Debug/Mirra_Mathias_M2IL_2022_2023.csproj.CoreCompileInputs.cache
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/bin/Debug/Mirra_Mathias_M2IL_2022_2023.exe
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/bin/Debug/Mirra_Mathias_M2IL_2022_2023.pdb
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/obj/Debug/Mirra_Mathias_M2IL_2022_2023.exe
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/obj/Debug/Mirra_Mathias_M2IL_2022_2023.pdb
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/bin/Debug/Newtonsoft.Json.dll
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/bin/Debug/Newtonsoft.Json.xml
+/home/home/devoir/Mirra_Mathias_M2IL_2022_2023/Mirra_Mathias_M2IL_2022_2023/obj/Debug/Mirra_Mathias_M2IL_2022_2023.csproj.CopyComplete
