@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirra_Mathias_M2IL_2022_2023", "Mirra_Mathias_M2IL_2022_2023\Mirra_Mathias_M2IL_2022_2023.csproj", "{CD670E9E-91EF-499B-A90E-34D9AD034212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD670E9E-91EF-499B-A90E-34D9AD034212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD670E9E-91EF-499B-A90E-34D9AD034212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD670E9E-91EF-499B-A90E-34D9AD034212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD670E9E-91EF-499B-A90E-34D9AD034212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
